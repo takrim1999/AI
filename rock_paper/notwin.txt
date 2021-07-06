@@ -1,0 +1,4 @@
+rock,rock
+rock,scissors
+scissors,paper
+scissors,scissors
