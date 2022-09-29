@@ -43,12 +43,12 @@ else:
 result =  win(choice,pc_choice)
 # print(result)
 if result == "DRAW":
-    print("its a draw")
+    print("DRAW")
     with open("notwin.txt" , "a") as f:
         f.write(",".join(move_list)+"\n")
 elif result == "HUMAN":
-    print("you won")
+    print("LOST")
     with open("notwin.txt" , "a") as f:
         f.write(",".join(move_list)+"\n")
 elif result == "PC":
-    print("I won")
+    print("WON")

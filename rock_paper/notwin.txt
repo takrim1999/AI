@@ -1,4 +1,7 @@
-rock,rock
-rock,scissors
+
 scissors,paper
+paper,paper
+rock,rock
 scissors,scissors
+paper,rock
+rock,scissors
