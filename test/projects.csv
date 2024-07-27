@@ -1,0 +1,15 @@
+Serial No,Project Name,Type,Status,Incomplete,Completed,Git Status,Priority,Comp Date,del pc?,del git?
+1,CSE-1922,C program,Running,1,0,available,1,-,NO,NO
+2,AI Calculator,Nonsense,Stalled,1,0,NO,inf.,-,YES,-
+3,Django,Back End,Stalled,1,0,available,not now,-,YES,YES
+4,Front End,as name,Running,1,0,available,3,-,NO,YES
+5,Game,python GUI,Stalled,1,0,NO,not now,-,YES,-
+6,IDE,bash+py,Stalled,1,0,available,inf.,-,YES,NO
+7,Network Basic,php+python,Stalled,1,0,NO,4,-,NO,-
+8,Power Off,bash+py,Stalled,1,0,available,2,-,NO,NO
+9,Shell FB,bash+py+net,Stalled,1,0,available,when time,-,NO,NO
+10,Tictactoe pred,math+stat+py,Stalled,1,0,available,when learned,-,NO,NO
+11,bl login,scarp,stalled,1,0,available,inf.,-,YES,YES
+12,,,,,,,,,,
+13,,,,,,,,,,
+14,,,,,,,,,,
